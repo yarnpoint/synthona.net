@@ -3,8 +3,6 @@
 
 Synthona is a hackable network information system, URL bookmarking system, note taking system, and is also supported on [patreon](https://www.patreon.com/yarnpoint)
 
-## [Download](https://yarnpoint.itch.io/synthona)
-
 #### FEATURES
 - create & browse through your very own custom mind palace network!
 - easily create bi-directional associative links between content
@@ -31,5 +29,7 @@ Synthona is a hackable network information system, URL bookmarking system, note 
 - open source, also open to pull requests if they fit the project
 - transformative features planned in occasional free updates!
 - runs on both Windows and macOS 
+
+## [Download](https://yarnpoint.itch.io/synthona)
 
 check back [here](https://yarnpoint.itch.io/synthona) or follow on [twitter](https://twitter.com/synthona) for updates!
