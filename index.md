@@ -2,34 +2,33 @@
 
 Network Information System
 
-### Markdown
+check back here or follow on [twitter](https://twitter.com/synthona) for updates!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Synthona is a hackable network information system, URL bookmarking system, note taking system, and is also supported on [patreon](https://www.patreon.com/yarnpoint)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/synthona/synthona.net/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## FEATURES
+- create & browse through your very own custom mind palace network!
+- easily create bi-directional associative links between content
+- associate content with other content to create data networks
+- link & launch many file types (pdf, mp3, .docx, etc)
+- turn your filesystem into a network
+- all data is stored on your device
+- create & share knowledge graphs
+- browse your data as a series of nested grids
+- built-in rich-text note-taking system
+- save & launch URL bookmarks
+- create & share collections of information
+- favorites system, for emphasizing important data
+- data browser with infinite scroll
+- graph visualizer to see & browse through data
+- search through all your notes, collections, and data
+- the ability to run in multiple windows
+- view the network constellation graph from any node to see its associations
+- multiple user accounts
+- full 1-click user data export for making & sharing backups
+- share data through imports & exports
+- keyboard shortcuts
+- advanced configuration options available
+- open source, also open to pull requests if they fit the project
+- transformative features planned in occasional free updates!
+- runs on both Windows and macOS 
