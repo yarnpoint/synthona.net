@@ -30,6 +30,6 @@
 - transformative features planned in occasional free updates!
 - runs on both Windows and macOS 
 
-## [Download](https://yarnpoint.itch.io/synthona)
-
 check back [here](https://yarnpoint.itch.io/synthona) or follow on [twitter](https://twitter.com/synthona) for updates!
+
+## [Download](https://yarnpoint.itch.io/synthona)
