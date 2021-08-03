@@ -1,5 +1,4 @@
-## ✨🌈 📚 Synthona
-## [Download](https://yarnpoint.itch.io/synthona)
+### [Download](https://yarnpoint.itch.io/synthona)
 #### Network Information System
 
 [Synthona](https://yarnpoint.itch.io/synthona) is a hackable network information system, URL bookmarking system, note taking system, and is also supported on [patreon](https://www.patreon.com/yarnpoint)
