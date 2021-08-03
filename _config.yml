@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Synthona
 description: Network Information System
+github:
+  repository_url: https://github.com/synthona
