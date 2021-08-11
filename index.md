@@ -1,5 +1,5 @@
 ## ✨🌈 📚 Synthona
-#### Network Information System
+#### Associative Notebook
 
 [Synthona](https://synthona.itch.io/synthona) is an open source associative notebook, file launcher, & bookmarking system, and is also supported on [patreon](https://www.patreon.com/yarnpoint)
 ## [Download](https://synthona.itch.io/synthona)
