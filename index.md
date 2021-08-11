@@ -1,8 +1,28 @@
 ## ✨🌈 📚 Synthona
 #### Network Information System
 
-[Synthona](https://synthona.itch.io/synthona) is a hackable network information system, URL bookmarking system, note taking system, and is also supported on [patreon](https://www.patreon.com/yarnpoint)
+[Synthona](https://synthona.itch.io/synthona) is an open source associative notebook, file launcher, & bookmarking system, and is also supported on [patreon](https://www.patreon.com/yarnpoint)
 ## [Download](https://synthona.itch.io/synthona)
+
+### APPLICATIONS
+- worldbuilding
+- inspiration generator
+- presentations
+- journaling
+- thinking associatively
+- scrapbooking
+- project management
+- organizing photos
+- interactive toy
+- branching stories
+- save & share your memories
+- taking notes
+- organizing pdfs
+- planning a game or novel
+- associative memory augmentation
+- organizing URL bookmarks
+- programming companion
+- more!
 
 #### FEATURES
 - create & browse through your very own custom mind palace network!
