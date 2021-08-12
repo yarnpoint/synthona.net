@@ -13,7 +13,6 @@
 - scrapbooking
 - project management
 - organizing photos
-- interactive toy
 - branching stories
 - save & share your memories
 - taking notes
